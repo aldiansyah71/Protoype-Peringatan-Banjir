@@ -1,5 +1,5 @@
 # Info
-aplikasi dibuat sebagai penelitian di perumahan duren jaya bekasi timur kota bekasi ,sebagai pemeberitahuan kondisi ketinggian air dan monitoring curah hujan 
+aplikasi dibuat sebagai penelitian di perumahan duren jaya bekasi timur kota bekasi ,sebagai pemeberitahuan kondisi ketinggian air dan monitoring curah hujan informasi tersebut akan dikirim melalui Telegram Bot
 # sensor
 sensor raindrop, sensor ultrasonic HCSR04, sensor Waterflow
 # akuator
